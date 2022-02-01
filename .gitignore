@@ -3,3 +3,5 @@ doc/tags
 node_modules
 .yarn_lock
 yarn.lock
+# ignore commit message
+.gitcommit
